@@ -22,14 +22,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
         </sub>
       </a>
     </td>
-    <td aling="center">
-        <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/67929579?v=4v=4" width="100px;" alt="Foto do Kauã Marangoni"/><br>
-        <sub>
-          <b>Kauã Marangoni</b>
-        </sub>
-      </a>
-      </td>
   </tr>
 </table>
 
