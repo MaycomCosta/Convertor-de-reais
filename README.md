@@ -1,6 +1,6 @@
 # Convertor De Reais
 
-![Convertor de reais](./Assets/result.png?raw=true "Convertor de reais")
+![Convertor de reais](https://user-images.githubusercontent.com/81838598/124641539-34925300-de65-11eb-904c-5275e75d6bc3.png)
 
 > Convertor de reais.
 
